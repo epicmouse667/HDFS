@@ -1,1 +1,0 @@
-{"id":1,"mode":3,"size":11,"filePath":"1169093569TEST","blockPaths":["dataNode: 1 block: 1","dataNode: 1 block: 2"],"createTime":1703920871864,"lastAccessTime":1703920872012,"lastModifyTime":1703920872044}
